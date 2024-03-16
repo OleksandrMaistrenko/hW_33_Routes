@@ -1,0 +1,9 @@
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gold;
+  font-size: 80px;
+  background-color: brown;
+  height: 100vh;
+}

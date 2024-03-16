@@ -1,0 +1,9 @@
+.materials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: darkcyan;
+  font-size: 80px;
+  background-color: lightcoral;
+  height: 100vh;
+}

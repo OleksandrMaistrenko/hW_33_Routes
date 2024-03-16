@@ -1,0 +1,105 @@
+/*!************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/style.css ***!
+  \************************************************************************/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+/*!*********************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/header/Menuitem.css ***!
+  \*********************************************************************************************/
+button {
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  margin: 40px;
+}
+a {
+  text-decoration: none;
+}
+
+/*!*******************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/header/Header.css ***!
+  \*******************************************************************************************/
+.header {
+  min-height: 100px;
+  background-color: rgb(48, 93, 208);
+  text-align: center;
+}
+
+/*!*************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/questions/Questions.css ***!
+  \*************************************************************************************************/
+.questions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  font-size: 80px;
+  background-color: dimgray;
+  height: 100vh;
+}
+
+/*!**********************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/main/Discription.css ***!
+  \**********************************************************************************************/
+.discription {
+  padding: 20px;
+  font-size: 25px;
+  color: white;
+}
+
+/*!***************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/main/Logo.css ***!
+  \***************************************************************************************/
+img {
+  padding-top: 100px;
+  max-width: 100%;
+}
+
+/*!***************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/main/Main.css ***!
+  \***************************************************************************************/
+.main {
+  height: 800px;
+  background-color: #4682b4;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+/*!*************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/materials/Materials.css ***!
+  \*************************************************************************************************/
+.materials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: darkcyan;
+  font-size: 80px;
+  background-color: lightcoral;
+  height: 100vh;
+}
+
+/*!***********************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./client/src/components/contacts/Contacts.css ***!
+  \***********************************************************************************************/
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gold;
+  font-size: 80px;
+  background-color: brown;
+  height: 100vh;
+}
+

@@ -1,0 +1,9 @@
+.questions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: red;
+  font-size: 80px;
+  background-color: dimgray;
+  height: 100vh;
+}
